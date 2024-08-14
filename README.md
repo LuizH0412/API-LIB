@@ -29,6 +29,20 @@ Para manter o código organizado e eficiente, optamos por usar Class-Based Views
 
 Seguindo essas boas práticas, garantimos que a API seja robusta, fácil de manter e capaz de crescer conforme necessário.
 
+## Tecnologias Utilizadas
+
+Neste projeto, usamos algumas ferramentas e tecnologias de ponta para garantir que a API de gestão de biblioteca seja robusta e eficiente. Aqui estão as principais:
+
+- **Django:** Um framework web de alto nível que facilita o desenvolvimento rápido e o design limpo. Django é a base sobre a qual a aplicação é construída, oferecendo uma estrutura sólida para o gerenciamento de dados e a lógica de backend.
+
+- **Django REST Framework (DRF):** Uma biblioteca poderosa que torna a criação de APIs web mais simples e direta. O DRF nos ajuda a definir e gerenciar os endpoints da API com eficiência, aproveitando funcionalidades como serializers e viewsets.
+
+- **Simple JWT (RFJWT):** Usamos o Simple JWT para autenticação por token. Ele permite que os usuários se autentiquem de forma segura através de tokens JWT, garantindo que apenas usuários autorizados possam acessar certas partes da API.
+
+- **Postman:** Ferramenta essencial para testar a API. Com o Postman, conseguimos criar e verificar chamadas para nossos endpoints, garantindo que tudo funcione conforme o esperado antes de lançar a aplicação.
+
+Essas tecnologias se combinam para fornecer uma solução poderosa e eficiente, cobrindo desde o desenvolvimento até o teste da API.
+
 ## Instalação
 
 ### Pré-requisitos
