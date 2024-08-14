@@ -265,7 +265,7 @@ Authorization: Bearer seu_token_aqui
   }
   ```
 
-**Atualizar Gênero**
+- **Atualizar Gênero**
   
   **Método:** PUT  
   **Endpoint:** `/api/v1/generos/{id}/`  
