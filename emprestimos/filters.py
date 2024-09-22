@@ -1,4 +1,4 @@
-from dj_rql.filter_cls import AutoRQLFilterClass, FilterLookups
+from dj_rql.filter_cls import AutoRQLFilterClass
 from emprestimos.models import Emprestimo
 
 class EmprestimoFilterClass(AutoRQLFilterClass):
